@@ -1,0 +1,13 @@
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\bin\Debug\netcoreapp3.1\Aluguel_quarto.exe
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\bin\Debug\netcoreapp3.1\Aluguel_quarto.deps.json
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\bin\Debug\netcoreapp3.1\Aluguel_quarto.runtimeconfig.json
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\bin\Debug\netcoreapp3.1\Aluguel_quarto.runtimeconfig.dev.json
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\bin\Debug\netcoreapp3.1\Aluguel_quarto.dll
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\bin\Debug\netcoreapp3.1\Aluguel_quarto.pdb
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\obj\Debug\netcoreapp3.1\Aluguel_quarto.csprojAssemblyReference.cache
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\obj\Debug\netcoreapp3.1\Aluguel_quarto.AssemblyInfoInputs.cache
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\obj\Debug\netcoreapp3.1\Aluguel_quarto.AssemblyInfo.cs
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\obj\Debug\netcoreapp3.1\Aluguel_quarto.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\obj\Debug\netcoreapp3.1\Aluguel_quarto.dll
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\obj\Debug\netcoreapp3.1\Aluguel_quarto.pdb
+C:\Users\Wesley Deivid\source\repos\Aluguel_quarto\Aluguel_quarto\obj\Debug\netcoreapp3.1\Aluguel_quarto.genruntimeconfig.cache
